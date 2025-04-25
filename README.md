@@ -29,7 +29,9 @@ Includes sales data across various global regions:
 - Dynamic slicer for year-wise filtering
 
 ## 📂 Files
+- `global_superstore_powerbi_dashboard.pbix` : Power BI Dashboard file
 - `summary.pdf`: A summary of the dashboard insights.
+- `global_superstore_data.xlsx` : Dataset
 
 ## 🚀 Getting Started
 To explore the dashboard, open the Power BI file (not included in this repo) or use the summary for a quick overview of the insights.
